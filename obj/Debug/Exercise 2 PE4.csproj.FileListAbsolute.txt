@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\bin\Debug\Exercise 2 PE4.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\bin\Debug\Exercise 2 PE4.exe
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\bin\Debug\Exercise 2 PE4.pdb
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\obj\Debug\Exercise 2 PE4.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\obj\Debug\Exercise 2 PE4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\obj\Debug\Exercise 2 PE4.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\obj\Debug\Exercise 2 PE4.exe
+C:\Users\Wiz\Desktop\IGME 201\Exercise 2 PE4\obj\Debug\Exercise 2 PE4.pdb
